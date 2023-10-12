@@ -2,6 +2,8 @@
 
 How's it going? 👋
 
+I'm a developer + designer making neat and helpful digital tools.
+
 My links:
 
 [Geoshen](https://geoshen.com) •
